@@ -1,6 +1,6 @@
 {
   "author": "Andrew Lunny <alunny@gmail.com>",
-  "name": "plugman",
+  "name": "plugman-repo",
   "description": "install/uninstall Cordova plugins",
   "version": "0.22.10",
   "repository": {
@@ -27,7 +27,7 @@
   "devDependencies": {
     "jasmine-node": "~1"
   },
-  "bin" : { "plugman" : "./main.js" },
+  "bin" : { "plugman-repo" : "./main.js" },
   "scripts": {
   },
   "contributors":[
